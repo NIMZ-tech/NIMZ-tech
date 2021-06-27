@@ -9,6 +9,6 @@ Result-oriented Data Analyst with strong statistical analytics skills interested
 # PROJECT-
 ## DATA COLLECTION:Data is collected from various resources using Web scraping Technology.Analyse the data using python coading and made conclusions in the tabular format.
 # Reach out to me at below email id or through LinkedIn for collaborations,ideas and opportunities-
-## Email-nimishaantony1996@gmail.com
-## LinkedIn ID-
+# Email-nimishaantony1996@gmail.com
+# LinkedIn ID-https://www.linkedin.com/in/nimisha-antony-442247210
 
